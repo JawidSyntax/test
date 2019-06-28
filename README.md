@@ -1,2 +1,3 @@
 # test
-This is an example of how merging work
+How does the merging senario works
+
